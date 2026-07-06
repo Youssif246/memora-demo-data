@@ -1,15 +1,15 @@
 [
   {
-    "name": "Dr. Michael Anderson",
-    "subject": "Mathematics",
-    "message": "Watching each of you grow over the years has been a true privilege. Keep challenging yourselves, stay curious, and never stop learning. I am proud of every one of you.",
-    "image": "https://res.cloudinary.com/dievut6ka/image/upload/v1783338657/profiles/teacher4/pfp.png"
-  },
-  {
     "name": "Mr. Daniel Thompson",
     "subject": "Physics",
     "message": "Success is not about having all the answers, but about having the courage to keep asking questions. Keep exploring, keep building, and keep believing in your potential.",
     "image": "https://res.cloudinary.com/dievut6ka/image/upload/v1783338657/profiles/teacher3/pfp.png"
+  },
+  {
+    "name": "Dr. Michael Anderson",
+    "subject": "Mathematics",
+    "message": "Watching each of you grow over the years has been a true privilege. Keep challenging yourselves, stay curious, and never stop learning. I am proud of every one of you.",
+    "image": "https://res.cloudinary.com/dievut6ka/image/upload/v1783338657/profiles/teacher4/pfp.png"
   },
   {
     "name": "Mr. Christopher Miller",
