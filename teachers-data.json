@@ -1,0 +1,30 @@
+[
+  {
+    "slug": "mr-daniel-thompson",
+    "name": "Mr. Daniel Thompson",
+    "subject": "Physics",
+    "message": "Success is not about having all the answers, but about having the courage to keep asking questions. Keep exploring, keep building, and keep believing in your potential.",
+    "image": "https://res.cloudinary.com/dievut6ka/image/upload/v1783338657/profiles/teacher3/pfp.png"
+  },
+  {
+    "slug": "dr-michael-anderson",
+    "name": "Dr. Michael Anderson",
+    "subject": "Mathematics",
+    "message": "Watching each of you grow over the years has been a true privilege. Keep challenging yourselves, stay curious, and never stop learning. I am proud of every one of you.",
+    "image": "https://res.cloudinary.com/dievut6ka/image/upload/v1783338657/profiles/teacher4/pfp.png"
+  },
+  {
+    "slug": "mr-christopher-miller",
+    "name": "Mr. Christopher Miller",
+    "subject": "History",
+    "message": "Your journey so far has already shaped remarkable stories. As you move forward, remember that every step you take becomes part of the legacy you leave behind.",
+    "image": "https://res.cloudinary.com/dievut6ka/image/upload/v1783338657/profiles/teacher1/pfp.png"
+  },
+  {
+    "slug": "mr-james-wilson",
+    "name": "Mr. James Wilson",
+    "subject": "Computer Science",
+    "message": "The future belongs to those who create it. Keep innovating, keep dreaming big, and never underestimate the impact you can make in this world.",
+    "image": "https://res.cloudinary.com/dievut6ka/image/upload/v1783338657/profiles/teacher2/pfp.png"
+  }
+]
