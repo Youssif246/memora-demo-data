@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Ethan Carter",
+    "Slug": "ethan-carter",
+    "Nickname": "E",
+    "Qoute": "The best memories are made together.",
+    "Description": "Basketball Player, Tech Enthusiast, Guitarist",
+    "Dream": "To become a software engineer and build products that impact lives.",
+    "ProfileImage": "https://res.cloudinary.com/dievut6ka/image/upload/v1783532780/profiles/ethan-carter/pfp.png"
+  },
+  {
+    "Name": "Olivia Bennett",
+    "Slug": "olivia-bennett",
+    "Nickname": "Liv",
+    "Qoute": "Collect moments, not things.",
+    "Description": "Artist, Photographer, Coffee Lover",
+    "Dream": "To travel the world and create meaningful visual stories.",
+    "ProfileImage": "https://res.cloudinary.com/dievut6ka/image/upload/v1783532780/profiles/olivia-bennett/pfp.png"
+  }
+]  
